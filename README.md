@@ -1,6 +1,6 @@
 # Federal Spending Tracker Using Artificial Intelligence (Work-in-progress)
 
-## Preliminary Work (2020)
+## Preliminary Work (2021)
 
 #### Instruction: This project aims to develop an artificial intelligence (AI)-based budget tracking and forecasting model that is efficient and effective, building on the previous initiative that involved data cleaning, automation, and visualization of U.S. spending data (Stay tuned).
 
