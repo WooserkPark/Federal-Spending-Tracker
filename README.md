@@ -4,7 +4,7 @@
 
 Instruction: This project aims to develop an artificial intelligence (AI)-based budget tracking and forecasting model that is efficient and effective, building on the previous initiative that involved data cleaning, automation, and visualization of U.S. spending data (Stay tuned).
 
-Previous Project Link (Interactive Map): https://public.tableau.com/views/FederalSpendingTrackerPublicFinanceInstituteUnitedStates/National?:language=en-US&:sid=&:redirect=auth&:toolbar=n&:display_count=n&:origin=viz_share_link
+Previous Project Link (Interactive Map): https://public.tableau.com/views/FederalSpendingTrackerPublicFinanceInstituteUnitedStates/National
 
 Previous Project Sample Images:
 
